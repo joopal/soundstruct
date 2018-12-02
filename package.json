@@ -1,0 +1,19 @@
+{
+  "name": "soundstruct",
+  "version": "1.0.0",
+  "description": "use sc comments to annotate music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joopal/soundstruct.git"
+  },
+  "author": "Zachary Fogg <zach.fogg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joopal/soundstruct/issues"
+  },
+  "homepage": "https://github.com/joopal/soundstruct#readme"
+}
